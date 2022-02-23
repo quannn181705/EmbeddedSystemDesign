@@ -1,0 +1,28 @@
+--cpu Cortex-M3
+"laptrinhlaplich\startup_stm32f103xb.o"
+"laptrinhlaplich\main.o"
+"laptrinhlaplich\stm32f1xx_it.o"
+"laptrinhlaplich\stm32f1xx_hal_msp.o"
+"laptrinhlaplich\stm32f1xx_hal_gpio_ex.o"
+"laptrinhlaplich\stm32f1xx_hal_i2c.o"
+"laptrinhlaplich\stm32f1xx_hal.o"
+"laptrinhlaplich\stm32f1xx_hal_rcc.o"
+"laptrinhlaplich\stm32f1xx_hal_rcc_ex.o"
+"laptrinhlaplich\stm32f1xx_hal_gpio.o"
+"laptrinhlaplich\stm32f1xx_hal_dma.o"
+"laptrinhlaplich\stm32f1xx_hal_cortex.o"
+"laptrinhlaplich\stm32f1xx_hal_pwr.o"
+"laptrinhlaplich\stm32f1xx_hal_flash.o"
+"laptrinhlaplich\stm32f1xx_hal_flash_ex.o"
+"laptrinhlaplich\stm32f1xx_hal_exti.o"
+"laptrinhlaplich\stm32f1xx_hal_tim.o"
+"laptrinhlaplich\stm32f1xx_hal_tim_ex.o"
+"laptrinhlaplich\stm32f1xx_hal_uart.o"
+"laptrinhlaplich\system_stm32f1xx.o"
+"laptrinhlaplich\dht22.o"
+"laptrinhlaplich\i2c-lcd.o"
+"laptrinhlaplich\hcsr04.o"
+--library_type=microlib --strict --scatter "Laptrinhlaplich\Laptrinhlaplich.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Laptrinhlaplich.map" -o Laptrinhlaplich\Laptrinhlaplich.axf

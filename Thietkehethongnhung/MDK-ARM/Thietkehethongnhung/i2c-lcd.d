@@ -1,0 +1,31 @@
+thietkehethongnhung\i2c-lcd.o: ..\LCD\i2c-lcd.c
+thietkehethongnhung\i2c-lcd.o: ..\LCD\i2c-lcd.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+thietkehethongnhung\i2c-lcd.o: ../Core/Inc/stm32f1xx_hal_conf.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Include/core_cm3.h
+thietkehethongnhung\i2c-lcd.o: D:\Driver\KeilC ARM\Software\ARM\ARMCC\Bin\..\include\stdint.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Include/cmsis_version.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+thietkehethongnhung\i2c-lcd.o: D:\Driver\KeilC ARM\Software\ARM\ARMCC\Bin\..\include\stddef.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+thietkehethongnhung\i2c-lcd.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
